@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "Basil de Jong"
+description:	       "Welcome to my portfolio website. This website is a space for you to learn more about me and what makes up who I am"
+author:              "Basil de Jong"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
